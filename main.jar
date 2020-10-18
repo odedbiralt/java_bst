@@ -1,5 +1,4 @@
-// Java program to demonstrate working of Collections. 
-// binarySearch() in a list of user defined objects 
+
 import java.util.*; 
 
 class Binarysearch 
